@@ -232,6 +232,22 @@
     position: relative;
 }
 
+.symbol {
+    color: #FFD11E;
+    font-size: 83px;
+    position: absolute;
+    top: 207px;
+    left: 12px;
+}
+
+.symbol2 {
+    color: #FFD11E;
+    font-size: 83px;
+    position: absolute;
+    top: 207px;
+    left: 980px;
+}
+
 .text-3rd {
     position: absolute;
     top: 39px;
